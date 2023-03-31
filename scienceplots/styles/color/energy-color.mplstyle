@@ -1,0 +1,8 @@
+# Energy color scheme
+# will plot according to the following orders:
+# 1. PV
+# 2. Load
+# 3. Hot water
+
+# Set color cycle
+axes.prop_cycle: cycler('color', ['fecb4e', '7a4eb7', 'b11a3d'])
